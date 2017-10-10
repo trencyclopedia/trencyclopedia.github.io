@@ -5,12 +5,9 @@ Looking forward to discussing and sharing with people of similar interest.
 
 ## Techniques
 -[Jekyll](https://jekyllrb.com/)
--[Jekyll](#jekyll)
--[Markdown](#markdown)
+-[Markdown](https://daringfireball.net/projects/markdown/)
 
 <br>
-
-### [Jekyll](https://jekyllrb.com/)
 
 this website is set up based on Jekyll and GitHub pages techniques which can automatically covert markdown files into html files and then host these files on the github useraccount domain.
 

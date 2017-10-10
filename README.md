@@ -21,9 +21,9 @@ Looking forward to discussing and sharing with people of similar interest.
 - [Jekyll](https://jekyllrb.com/)
 - [Markdown](https://daringfireball.net/projects/markdown/)
 
-this website is set up based on Jekyll and GitHub pages techniques which can automatically covert markdown files into html files and then host these files on the github useraccount domain.
+This website is set up based on Jekyll and GitHub pages techniques which can automatically convert markdown files into html files and then host these files on the github useraccount domain. Awesome!!
 
-Actually this README file has been wrintten under Markdown syntax which is just another markup language like html but is more human-readable.
+Actually this README file has been wrintten under Markdown syntax which is just another markup language like html but is more human-readable. Awesome!
 
 ## Other resources:
 ### this website is setup by following the instruction from [Jonathaan](http://jmcglone.com/guides/github-pages/)

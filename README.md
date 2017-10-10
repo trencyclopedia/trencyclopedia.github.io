@@ -8,4 +8,4 @@ this website is set up based on Jekyll and GitHub pages techniques which can aut
 
 This README file is wrintten under Markdown syntax which is just another markup language like html but is more human-readable.
 
-###this website is setup by following the instruction from [Jonathaan] (http://jmcglone.com/guides/github-pages/)
+### this website is setup by following the instruction from [Jonathaan] (http://jmcglone.com/guides/github-pages/)

@@ -1,13 +1,11 @@
 # Eric's website
 <p align="center">
-   
    <a href="https://trencyclopedia.github.io/"><strong>Eric In the Virtual World</strong></a>
    <br>
-  <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
-    &middot;
-    <a href="https://jobs.getbootstrap.com/">Job Board</a>
-    &middot;
-    <br>
+   <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
+   &middot;
+   <a href="https://jobs.getbootstrap.com/">Job Board</a>
+   <br>
 </p>
 
 <br>

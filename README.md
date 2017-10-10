@@ -23,7 +23,7 @@ Looking forward to discussing and sharing with people of similar interest.
 
 This website is set up based on Jekyll and GitHub pages techniques which can automatically convert markdown files into html files and then host these files on the github useraccount domain. Awesome!!
 
-Actually this README file has been wrintten under Markdown syntax which is just another markup language like html but is more human-readable. Awesome!
+Actually this README file has been wrintten under Markdown syntax which is just another markup language like html but is more human-readable. Awesome! But it's sitll possible to write in html language, for example the next paragraph is written in html syntax.
 
 ## Next step
 <ul>

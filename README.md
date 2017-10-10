@@ -4,3 +4,8 @@ Here is my personal website project. Based on GitHub pages, I build up my first 
 Looking forward to discussing and sharing with people of similar interest.
 
 ## techniques
+this website is set up based on Jekyll and GitHub pages techniques which can automatically covert markdown files into html files and then host these files on the github useraccount domain.
+
+This README file is wrintten under Markdown syntax which is just another markup language like html but is more human-readable.
+
+###this website is setup by following the instruction from [Jonathaan] (http://jmcglone.com/guides/github-pages/)

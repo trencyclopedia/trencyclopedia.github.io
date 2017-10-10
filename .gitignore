@@ -1,0 +1,2 @@
+#ignore the file changes in the folder _site which Jekyll automatically generates each time you commit
+_site/

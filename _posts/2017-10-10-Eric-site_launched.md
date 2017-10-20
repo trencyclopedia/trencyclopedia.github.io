@@ -11,4 +11,4 @@ By following the instructions from [Jonathan McGlone](http://jmcglone.com/guides
 It actually is a lot easier than I thought it was going to be.
  
  
-#####This website is powered by [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com/) I can use Markdown to author my posts.
+##### This website is powered by [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com/) I can use Markdown to author my posts.

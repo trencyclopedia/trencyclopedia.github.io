@@ -1,0 +1,3 @@
+check and add blog templates 
+add blogs about technical stuff
+

@@ -1,6 +1,6 @@
 ## Eric's website
 <p align="center">
-   <h1 align="center"> <a href="https://trencyclopedia.github.io/"><strong>Eric In the Virtual World</strong></a></h1> 
+   <h1 align="center"> <a href="https://trencyclopedia.github.io/"><strong>Eric's Virtual World</strong></a></h1> 
    
    <p align="center">
    <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>

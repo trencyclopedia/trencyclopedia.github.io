@@ -57,10 +57,11 @@ ul.posts li {
   height: 200px;
   border-radius: 50%;
 }
+
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.%;
+  width: 33.33%;
   padding: 10px;
 }
 

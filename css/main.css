@@ -50,13 +50,28 @@ ul.posts li {
   height: 250px;
   border-radius: 50%;
 }
+
+.avatar.small {
+  horizontal-align: left;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 33.33%;
   padding: 10px;
-  
 }
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+.column.otherside {
+  width: 25%;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";

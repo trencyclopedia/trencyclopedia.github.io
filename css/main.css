@@ -46,8 +46,8 @@ ul.posts li {
 /* circle image */
 .avatar {
   horizontal-align: left;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
 }
 /* Create three equal columns that floats next to each other */
@@ -64,8 +64,10 @@ ul.posts li {
   clear: both;
 }
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+/*
 @media (max-width: 600px) {
   .column {
     width: 100%;
   }
 }
+*/

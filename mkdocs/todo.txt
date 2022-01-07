@@ -1,6 +1,0 @@
-check and add blog templates 
-add blogs about technical stuff
-method for structuring documents 
-coding more
-summarize project codes and paper
-hi

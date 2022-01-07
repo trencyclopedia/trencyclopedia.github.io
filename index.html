@@ -3,61 +3,57 @@ layout: default
 cv: passive
 title: Eric, the virtual world
 ---
-<div class="blurb">
+
+<head>
+
+
+<!-- add a favicon for my website -->
+<link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+</head>
+
+<body style="background-color:lightblue;">
 	<h1>Hi there, I'm Eric. Welcome to my virtual world!</h1>
+	
+	<div class="blurb"><!-- define blurb -->
+		
+		<div class="row marketing">
+			
+			<div>
+				<p>My professional work and attention are focused on developing preventative mHealth and self-care solutions via passive monitoring of daily behaviors.<br><br>
+				
+				The mission is to digitize lifestyle and behavior by providing intelligent solutions for sensing, capturing, and analyzing traces and states of being, so that people can connect dots, extract meaning, get actionable insights, and initiate positive change.  
+				</p>
 
-	<body style="background-color:lightblue;">
-	<div class="row marketing">
+				<p>I am mostly interested in these topics: 
+					<em>
+					<li><a href="https://en.wikipedia.org/wiki/Quantified_Self">quantified Self</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Preventive_healthcare">preventitative healthcare</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Data_analysis">data analysis</a></li>
+					</em> 
+				</p>
+			
+			</div>
 		
-		<!--
-		<div class="col-sm-4">
-		<img  alt="Eric" class="img-circle avatar" src ="img/eric.png">
 		</div>
-		-->
 		
-		<!-- commment out the paragraph bellow
-		<div itemscope itemtype="http://data-vocabulary.org/Person" class="col-sm-12">
-		<p>Here is my personal website hosting topics and projects that facinate me. Looking forward to discussing and sharing with people of similar interest.</p> 
+		
+		<!-- add website stat -->
+		<div class="web stat">
+			{% include analytics.html %}	 
+		</div>
+		
 		<br>
-		<p>I was born and raised up in China, and I obtained my master degree in electrical engineering from <a href="https://english.pku.edu.cn/">Peking University</a>. Then I started my Ph.D. research at <a href="https://www.imec-int.com/en"> imec </a> in Belgium, 
-			and earned my Ph.D. degree from <a href="https://www.kuleuven.be/english/">KULeuven</a> in 2021. </p>
-		</div>
-		-->
-		
-		<div>
+		<br>
 		<p>
-		My professional work and attention are focused on developing preventative mHealth and self-care solutions via passive monitoring of daily behaviors.<br><br>
-		
-		The mission is to digitize lifestyle and behavior by providing intelligent solutions for sensing, capturing, and analyzing traces and states of being, so that people can connect dots, extract meaning, get actionable insights, and initiate positive change.  
+		Want to know more about me? <a href="/about">About...</a> <a href="/Progjects">Projects...</a>
+		<br>
+		<br>
+		This website is still under progress
+			
 		</p>
+	</div><!-- /.blurb -->
 
-		<p>I am mostly interested in these topics: 
-			<em>
-			<li><a href="https://en.wikipedia.org/wiki/Quantified_Self">quantified Self</a></li>
-			<li><a href="https://en.wikipedia.org/wiki/Preventive_healthcare">preventitative healthcare</a></li>
-			<li><a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a></li>
-			<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a></li>
-			<li><a href="https://en.wikipedia.org/wiki/Data_analysis">data analysis</a></li>
-			</em> 
-		</p>
-	
-		</div>
-	
-	</div>
-	</body>
-	
-	<!-- website stat -->
-	<div class="web stat">
-		{% include analytics.html %}	 
-	</div>
-	
-	<br/>
-	<br/>
-	Want to know more about me? <a href="/about">About...</a> <a href="/Progjects">Projects...</a>
-	<br>
-	<br>
-	This website is still under progress
-		
-	</p>
-</div><!-- /.blurb -->
+</body>
 

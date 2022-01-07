@@ -1,17 +1,11 @@
 ---
 layout: default
-title: Eric's Blog
+title: Eric's Posts
 ---
-	<h1>{{ page.title }}</h1>
-	
-
-	<h2> blogs</h2>	
-		<a href="mydocs/">reading notes and blogs</a>
-		
-	<hr>
-	
+	<h1>{{ page.title }}</h1>	
 	
 	<h2> post</h2>
+	<hr>
 	
 		<!-- list of posts -->
 		<ul class="posts">
@@ -21,10 +15,10 @@ title: Eric's Blog
 		</ul>
 
 
-	<!-- Post comments -->
+	<!-- add Post comments -->
 	<div class="notecomments">
 		{% include disqus.html %}	 
 	</div>
 	
-	<!-- blog feed -->
+	<!-- add blog feed -->
 	<a href="https://trencyclopedia.github.io/blog/atom.xml">feed</a>

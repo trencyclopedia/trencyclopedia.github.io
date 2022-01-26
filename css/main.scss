@@ -1,0 +1,146 @@
+---
+---
+
+
+/* circle image */
+.avatar {
+	horizontal-align: left;
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	
+	.small {
+	  horizontal-align: left;
+	  width: 200px;
+	  height: 200px;
+	  border-radius: 50%;
+	}
+}
+
+
+
+/* Create three equal columns that floats next to each other */
+.column {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	
+	.left {
+	  width: 75%;
+	}	
+	.right {
+	  width: 25%;
+	}
+	
+	
+	.side {
+	  width: 30%;
+	}
+	
+	.otherside {
+	  width: 65%;
+	}
+
+
+	.half {
+	  width: 45%;
+	}
+
+	.w20-perct {
+	  width: 20%;
+	}
+}
+
+
+
+/* Left and right column */
+
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+
+body {
+    margin: 10px auto;
+    width: 90%;
+	background-color: lightblue;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 2.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: 'Blue';
+}
+h3 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: 'green';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+
+/*old rules for post*/
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+/*new rules for post*/
+
+@import  "index", "post","page", "scrollbar";
+
+// "reset","syntax-highlighting" , "demo", "footer", "header","backToTop";
+
+
+
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+/*
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+*/

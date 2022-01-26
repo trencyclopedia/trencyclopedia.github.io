@@ -41,4 +41,4 @@ Actually this README file has been wrintten under Markdown syntax which is just 
 
 
 ## Other resources:
-### this website is setup by following the instruction from [Jonathaan](http://jmcglone.com/guides/github-pages/)
+ 
